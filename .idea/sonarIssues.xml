@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/Configuration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/controller/BookShelfController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/model/BookModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/repository/BookRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/service/BookShelfService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/testtehnic/test/controller/BookShelfController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/testtehnic/test/controller/BookShelfService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/testtehnic/test/controller/controller/BookShelfController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/testtehnic/test/controller/model/BookModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/testtehnic/test/controller/repository/BookRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/book-api/src/main/java/testtehnic/test/controller/service/BookShelfService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/package-lock.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/proxy.conf.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/app-routing.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/app.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/app.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/app.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/app.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/books-add-action/books-add-action.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/books-add-edit-modal-window/books-add-edit-modal-window.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/books-add-edit-modal-window/books-add-edit-modal-window.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/books-display-grid/books-display-grid.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/books-display-grid/books-display-grid.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/books.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/books.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/books/model/book-model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/util/confirmation-dialog/confirmation-dialog.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/util/confirmation-dialog/confirmation-dialog.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/app/util/util.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-frontend/src/model/book-model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/src/main/java/testtehnic/test/BookShelfController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/src/main/java/testtehnic/test/TestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/src/main/java/testtehnic/test/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-apps/web/ar-standalone/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/configuration/features/teams-and-users/model/team-model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/configuration/features/teams-and-users/team-add-edit-dialog/team-add-edit-dialog.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/configuration/features/teams-and-users/teams-and-user.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/configuration/features/teams-and-users/teams-and-users.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/configuration/features/teams-and-users/teams-edit-action/teams-edit-action.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-frontend/ar-webapp/projects/config-app/src/app/screens/risk-strategy-control/features/rule-manager/rule-manager.module.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-frontend/ar-webapp/projects/main-app/src/app/screens/features/travel-notification/service/travel-notification-ar-communication.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-services/configuration/teams-and-users/teams-and-users-api/src/main/java/com/aciworldwide/rms/ar/teamsandusers/api/TeamsAndUsersApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-services/configuration/teams-and-users/teams-and-users-api/src/main/java/com/aciworldwide/rms/ar/teamsandusers/model/TeamModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-services/configuration/teams-and-users/teams-and-users-server/src/main/java/com/aciworldwide/rms/ar/teamsandusers/service/TeamsAndUserRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-services/configuration/teams-and-users/teams-and-users-server/src/main/java/com/aciworldwide/rms/ar/teamsandusers/service/TeamsAndUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-tools/ui-metadata-generator/src/main/resources/import-1.4/i18n/localization.en_US.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/ar/ar-tools/ui-metadata-generator/src/main/resources/import-1.4/view_fragments/configuration-teams-screen.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/prm/ui/ui-client/src/main/resources/config.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/prm/ui/ui-domain/src/main/java/com/aciworldwide/prm/domainimpl/EditTeamImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/prm/ui/ui-rest/ui-configuration-server/src/main/java/com/aciworldwide/prm/rest/configuration/teamsandusers/TeamsAndUsersService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../work/prm/ui/ui-server/src/main/webapp/META-INF/context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
